@@ -10,7 +10,7 @@ include(config.cmake)
 # the toolchain file (see https://github.com/ubirch/avr-arduino-cmake)
 
 # project name and code types we use
-project(shresth C CXX ASM)
+project(kitchentimer C CXX ASM)
 
 # adding our libraries, sources
 add_libraries(lib)
